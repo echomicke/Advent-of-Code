@@ -1,4 +1,4 @@
-file = open('./input')
+file = open('input')
 test_input = file.read()
 file.close()
 
